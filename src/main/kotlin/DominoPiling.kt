@@ -1,0 +1,8 @@
+fun main(){
+
+}
+
+
+fun dominoPiling(){
+
+}
