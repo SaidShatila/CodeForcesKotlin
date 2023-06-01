@@ -31,8 +31,6 @@ Clone the repository using the following command:
 git clone https://github.com/SaidShatila/CodeForcesKotlin.git
 ```
 
-Replace 'username' with your GitHub username.
-
 ## Usage
 
 Once you have cloned the repository, you can navigate into the individual problem folders. Each problem folder contains a main.kt file with the Kotlin solution for the respective problem.
