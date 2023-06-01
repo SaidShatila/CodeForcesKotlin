@@ -28,7 +28,7 @@ Ensure you have the following installed on your machine:
 Clone the repository using the following command:
 
 ```
-git clone https://github.com/username/codeforces-kotlin.git
+git clone https://github.com/SaidShatila/CodeForcesKotlin.git
 ```
 
 Replace 'username' with your GitHub username.
